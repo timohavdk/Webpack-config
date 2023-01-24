@@ -1,0 +1,2 @@
+# Webpack-config
+Build configuration

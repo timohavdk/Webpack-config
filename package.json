@@ -1,0 +1,25 @@
+{
+  "name": "webpack-config",
+  "version": "1.0.0",
+  "description": "Config to project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timohavdk/Webpack-config.git"
+  },
+  "keywords": [
+    "Webpack"
+  ],
+  "author": "timoha_vdk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timohavdk/Webpack-config/issues"
+  },
+  "homepage": "https://github.com/timohavdk/Webpack-config#readme",
+  "dependencies": {
+    "webpack": "^5.75.0"
+  }
+}
